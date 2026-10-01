@@ -1,1 +1,2 @@
-This is a project imageSlideshowApp
+This is a project imageSlideshowApp.
+Author - Krishan Kumar
