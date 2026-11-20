@@ -1,2 +1,1 @@
-This is a project imageSlideshowApp
-
+This is a project imageSlideshowApp.
